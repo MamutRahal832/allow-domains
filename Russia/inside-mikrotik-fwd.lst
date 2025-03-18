@@ -58,6 +58,7 @@
 /ip dns static add name=atn.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=att.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=attachments.f95zone.to type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=aur.archlinux.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=autodesk.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=avira.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=azathabar.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -69,6 +70,7 @@
 /ip dns static add name=bbc.co.uk type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bbc.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bbci.co.uk type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=bbs.archlinux.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bcbits.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bell-sw.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bellingcat.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -748,6 +750,7 @@
 /ip dns static add name=weebly.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=welt.de type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=widgetapp.stream type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=wiki.archlinux.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wiki.fextralife.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wikidot.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=wilsoncenter.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

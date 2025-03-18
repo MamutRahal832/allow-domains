@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,assets.heroku.com
 DOMAIN-SUFFIX,atn.ua
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,attachments.f95zone.to
+DOMAIN-SUFFIX,aur.archlinux.org
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,azathabar.com
@@ -69,6 +70,7 @@ DOMAIN-SUFFIX,bato.to
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbs.archlinux.org
 DOMAIN-SUFFIX,bcbits.com
 DOMAIN-SUFFIX,bell-sw.com
 DOMAIN-SUFFIX,bellingcat.com
@@ -748,6 +750,7 @@ DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,welt.de
 DOMAIN-SUFFIX,widgetapp.stream
+DOMAIN-SUFFIX,wiki.archlinux.org
 DOMAIN-SUFFIX,wiki.fextralife.com
 DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,wilsoncenter.org
